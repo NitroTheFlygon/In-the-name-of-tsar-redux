@@ -1,0 +1,25 @@
+state=
+{
+	id=965
+	name="STATE_965"
+	manpower = 10000
+	
+	state_category = enclave
+	
+	history= {
+		victory_points = { 
+			10777 1
+		}
+		owner = ETH
+		add_core_of = ETH
+		add_core_of = SOM
+		buildings = {
+			infrastructure = 2
+		}
+	}
+	provinces={
+		10777 
+	}
+
+	local_supplies=0.0 
+}
